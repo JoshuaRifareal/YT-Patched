@@ -1,3 +1,3 @@
 # YT-Patched
 
-go to #Releases and download YT patched and GMS
+go to /releases/latest YT patched and GMS
