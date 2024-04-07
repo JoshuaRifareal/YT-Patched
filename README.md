@@ -1,3 +1,3 @@
 # YT-Patched
 
-go to /releases/latest YT patched and GMS
+go to [Releases](https://github.com/JoshuaRifareal/YT-Patched/releases) YT patched and GMS
